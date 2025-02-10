@@ -6,5 +6,6 @@ div{
     text-align: center;
 }
 img{
-    image-orientation: from-image;
+    height: auto;
+    width: auto;
 }
